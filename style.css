@@ -1,0 +1,8 @@
+.profile{
+  widith: 300px;
+  margin-bottom: 20px;
+  margin-top 25px;
+  border-radius 50%;
+}
+#welcome{
+  background: linear-gradient(#FF0005 0%, #0010FF 100%)
